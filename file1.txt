@@ -1,4 +1,2 @@
 Hello Git
-New line added
-
 Another new line from my-new-branch
